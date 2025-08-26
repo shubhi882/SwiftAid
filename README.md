@@ -63,7 +63,5 @@ InstaAid is a comprehensive web application designed to provide immediate first 
   - `/utils` - Utility functions
   - `/styles` - CSS styles
 
-## Contact
 
-Amulya Bharti J - bhartiamulya0902@gmail.com
 
