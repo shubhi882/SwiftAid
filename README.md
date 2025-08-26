@@ -75,6 +75,8 @@ npm install
 
 # Start the development server
 npm start
+
+
 Open http://localhost:3001 in your browser 🚀
 
 🌍 Future Enhancements
@@ -87,19 +89,11 @@ Open http://localhost:3001 in your browser 🚀
 🤝 Contributing
 Want to make SwiftAid better? Contributions are welcome!
 
-bash
-Copy code
-fork → create a feature branch → commit → open a pull request
-📜 License
-This project is licensed under the MIT License.
 
-🩷 Acknowledgments
-Thanks to Material UI, Leaflet, and Web Speech API for powering the experience.
 
-💡 Tip: Bookmark SwiftAid today — it might just save a life tomorrow.
 
-yaml
-Copy code
+Acknowledgments
+Thanks to Material UI, Leaflet, and Web Speech API for powering the experience
 
 ---
 
@@ -118,11 +112,13 @@ Copy code
 After renaming on GitHub, you need to update your local repo’s remote:
 
 ```bash
+
 # Check current remote URL
 git remote -v
 
 # Update remote URL to the new repository name
 git remote set-url origin https://github.com/your-username/SwiftAid.git
+
 
 #Contact
 Shubhi Agnihotri- agnihotrishubhi05@gmail.com
