@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="800px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>Heat Stroke Warning</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12,3 C16.9705627,3 21,7.02943725 21,12 C21,16.9705627 16.9705627,21 12,21 C7.02943725,21 3,16.9705627 3,12 C3,7.02943725 7.02943725,3 12,3 Z" fill="#FF6B6B"/>
+        <path d="M12,7 C13.1045695,7 14,7.8954305 14,9 C14,10.1045695 13.1045695,11 12,11 C10.8954305,11 10,10.1045695 10,9 C10,7.8954305 10.8954305,7 12,7 Z" fill="#FFFFFF"/>
+        <path d="M12,13 C14.209139,13 16,14.790861 16,17 C16,19.209139 14.209139,21 12,21 C9.790861,21 8,19.209139 8,17 C8,14.790861 9.790861,13 12,13 Z" fill="#FFFFFF"/>
+        <path d="M12,15 L12,19 M10,17 L14,17" stroke="#FF6B6B" stroke-width="2" stroke-linecap="round"/>
+    </g>
+</svg>

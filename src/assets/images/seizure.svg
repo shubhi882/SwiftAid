@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="800px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>Seizure Warning</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12,2 C17.5228475,2 22,6.4771525 22,12 C22,17.5228475 17.5228475,22 12,22 C6.4771525,22 2,17.5228475 2,12 C2,6.4771525 6.4771525,2 12,2 Z" fill="#9B59B6"/>
+        <path d="M8,8 L16,8 L16,16 L8,16 L8,8 Z" fill="#FFFFFF"/>
+        <path d="M10,10 L14,10 M10,12 L14,12 M10,14 L14,14" stroke="#9B59B6" stroke-width="2" stroke-linecap="round"/>
+        <path d="M7,7 L9,5 M15,5 L17,7 M17,17 L15,19 M7,17 L9,19" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+    </g>
+</svg>

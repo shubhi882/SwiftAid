@@ -1,0 +1,5 @@
+// Add more conditions here...
+  }
+};
+
+export { multilingualMedicalData };
