@@ -1,87 +1,65 @@
-🚑 SwiftAid – Your First Aid & Emergency Companion
 
-A smart, multilingual, and interactive web platform designed to guide you through first aid and medical emergencies — anytime, anywhere.
+## Overview
 
-🌟 Overview
+SwiftAid is a comprehensive web application designed to provide immediate first aid and medical emergency assistance. The platform offers step-by-step guidance for various medical emergencies, multilingual support, and location-based hospital finder services.
 
-SwiftAid is a life-saving web application that offers:
+## Features
 
-🩹 Step-by-step first aid procedures
+- **Emergency Procedures**: Step-by-step guides for common medical emergencies
+- **Multilingual Support**: Available in multiple Indian languages including Hindi, Gujarati, Kannada, Malayalam, Marathi, Punjabi, and Telugu
+- **Voice Guidance**: Audio instructions for emergency procedures
+- **Hospital Finder**: Location-based service to find nearby medical facilities
+- **Medical Chatbot**: Interactive assistance for medical queries
+- **Responsive Design**: Works on mobile, tablet, and desktop devices
 
-🌐 Instant multilingual support
+## Technologies Used
 
-🏥 Nearby hospital suggestions
+- React.js
+- Material UI
+- Leaflet Maps
+- Progressive Web App features
+- Voice synthesis and playback
 
-🎙️ Voice-assisted emergency guidance
+## Getting Started
 
-🤖 Interactive chatbot for medical queries
+### Prerequisites
 
-Whether you’re at home, on the road, or outdoors — SwiftAid has your back.
+- Node.js (v14 or later)
+- npm or yarn
 
-🚀 Key Features
+### Installation
 
-✅ 🩺 Emergency Procedures – Clear, stepwise instructions for various situations
+1. Clone the repository:
+   ```
+   git clone https://github.com/shubhi882/SwiftAid.git
+   ```
 
-✅ 🌐 Multilingual Support – Hindi, Gujarati, Kannada, Malayalam, Marathi, Punjabi, Telugu & more
+2. Navigate to the project directory:
+   ```
+   cd SwiftAid
+   ```
 
-✅ 🎙️ Voice Assistance – Audio guides for hands-free first aid
+3. Install dependencies:
+   ```
+   npm install
+   ```
 
-✅ 📍 Hospital Finder – Location-based search for nearby hospitals & clinics
+4. Start the development server:
+   ```
+   npm start
+   ```
 
-✅ 🤖 Medical Chatbot – Get answers to basic health-related queries
+5. Open [http://localhost:3001](http://localhost:3001) to view it in your browser.
 
-✅ 📱 Responsive Design – Optimized for mobile, tablet, and desktop
 
-🛠️ Tech Stack
+## Project Structure
 
-⚛️ React.js – Frontend framework
+- `/public` - Static assets and HTML template
+- `/src` - Source code
+  - `/components` - React components
+  - `/data` - Medical information and multilingual content
+  - `/services` - API services
+  - `/utils` - Utility functions
+  - `/styles` - CSS styles
 
-🎨 Material UI – Elegant, responsive UI components
-
-🗺️ Leaflet Maps – Interactive maps for hospital locations
-
-📱 PWA Features – Installable web app
-
-🔊 Web Speech API – Voice synthesis & playback
-
-🧩 Project Structure
-SwiftAid/
-├── public/          # Static assets & HTML templates
-├── src/
-│   ├── components/  # Reusable React components
-│   ├── data/        # Medical info & multilingual content
-│   ├── services/    # API integrations & data fetching
-│   ├── utils/       # Helper functions
-│   ├── styles/      # Global & component-specific styles
-└── package.json
-
-⚡ Getting Started
-🔹 Prerequisites
-
-Make sure you have:
-
-Node.js (v14 or later)
-
-npm or yarn
-
-Installation
-# Clone the repository
-git clone https://github.com/your-username/SwiftAid.git
-
-# Navigate to project folder
-cd SwiftAid
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm start
-
-🌍 Future Enhancements
-
-🧠 AI-powered symptom checker
-
-🩺 Integration with ambulance services
-
-🔔 Real-time emergency alerts
 
