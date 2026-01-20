@@ -28,7 +28,7 @@ const languages = {
 async function generateTestAudio() {
   const audioDir = path.join(__dirname, '..', 'public', 'audio');
   
-  // Create directory if it doesn't exist
+  // Create directory if it doesn't exist or create directory
   if (!fs.existsSync(audioDir)) {
     fs.mkdirSync(audioDir, { recursive: true });
   }
